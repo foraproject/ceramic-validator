@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "ceramic-validator",
+  "version": "0.1.0",
+  "description": "Validation Library for the ceramic ODM.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/ceramic-validator.git"
+  },
+  "dependencies": {
+    "fora-data-utils": "*"
+  },
+  "main": "lib/ceramic-validator",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "ceramic",
+    "validation",
+    "odm",
+    "orm",
+    "database"
+  ],
+  "license": "GPL-3.0+",
+  "readme": "fora-validator\n==============\n\nValidation Library for the ceramic ODM\n",
+  "readmeFilename": "README.md",
+  "gitHead": "306cec109e0fe1c3c73e05fed80ae158d83b1a5f",
+  "bugs": {
+    "url": "https://github.com/jeswin/ceramic-validator/issues"
+  },
+  "homepage": "https://github.com/jeswin/ceramic-validator",
+  "_id": "ceramic-validator@0.1.0",
+  "scripts": {},
+  "_shasum": "1fc737ef953862fa7300e11ecf0dc1f06b90146d",
+  "_from": "ceramic-validator@*"
+}
